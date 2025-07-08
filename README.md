@@ -4,6 +4,8 @@
 
 # Spotube Fetch
 
+> **Note:** This app is only for downloading Spotify playlists, but it does so by searching for the songs on YouTube and downloading the audio from there.
+
 A beautiful, modern desktop app to fetch and download YouTube audio for your Spotify playlists or any CSV of tracks. Designed for simplicity and elegance, inspired by Apple UI principles.
 
 ---
